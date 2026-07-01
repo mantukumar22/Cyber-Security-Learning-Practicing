@@ -1,10 +1,12 @@
 # Claude Code — project context
 
+
+
 <!-- cloude-code-toolbox:mcp-skills-awareness-begin -->
 
 ### MCP & Skills awareness (Cloude Code ToolBox)
 
-_Last synced: 2026-06-29T16:02:39.632Z._
+_Last synced: 2026-07-01T14:04:24.828Z._
 
 - **Full report:** `.claude/cloude-code-toolbox-mcp-skills-awareness.md` in this workspace (auto-overwritten on each scan). Use it as ground truth for configured servers and skill folders.
 - **MCP:** For **live tools** in Claude Code, enable the matching server via `/mcp`. Servers are configured in `~/.claude.json` (user) and `.mcp.json` (project).
@@ -13,7 +15,7 @@ _Last synced: 2026-06-29T16:02:39.632Z._
 
 #### Workspace MCP
 
-- `c:\Users\mantu\OneDrive\Pictures\WD\Web_dev\Ceber Security\.mcp.json` _(workspace: Ceber Security)_ — _file missing_
+- `d:\Web Dev\Cyebr Security\Ceber Security\.mcp.json` _(workspace: Ceber Security)_ — _file missing_
 
 _No active workspace servers in mcp.json._
 
