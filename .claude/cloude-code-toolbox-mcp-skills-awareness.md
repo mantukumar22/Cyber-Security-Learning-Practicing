@@ -1,6 +1,6 @@
 # Cloude Code ToolBox — MCP & Skills awareness
 
-_Generated: 2026-07-02T13:55:06.784Z_
+_Generated: 2026-07-03T16:17:53.435Z_
 
 ## How to use this report
 
@@ -13,9 +13,9 @@ _Generated: 2026-07-02T13:55:06.784Z_
 
 ## MCP — workspace
 
-Workspace `mcp.json` _(folder: Ceber Security)_
+Workspace `mcp.json` _(folder: Ceber Security sheryians)_
 
-- **d:\Web Dev\Cyebr Security\Ceber Security\.mcp.json** — _File missing_
+- **d:\Web Dev\Cyebr Security\Ceber Security sheryians\.mcp.json** — _File missing_
 
 _No active workspace servers in mcp.json._
 
